@@ -1,9 +1,9 @@
-<h1 align="left">Hi 👋, I'm Mateus</h1>
-<h3 align="left">🧠 Big Data student focused on Fullstack Development, Machine Learning, and Cloud Architecture. I am always eager to learn and improve my skills in the latest technologies.</h3>
+<h1 align="left">Hey, I'm Mateus</h1>
+<h3 align="left">Big Data student focused on Fullstack Development, AI, and Cloud Architecture. I am always eager to learn and improve my skills in the latest technologies.</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently open to work!
+- 🔍 I’m currently open to work!
 
 - 📫 How to reach me **robersmateus@gmail.com**
 
