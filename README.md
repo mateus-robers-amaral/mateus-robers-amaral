@@ -13,6 +13,25 @@
 <a href="https://instagram.com/mateus.robers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mateus.robers" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Featured project:</h3>
+
+### 🔥 [F.O.G.O.](https://github.com/jonhvinnykkj/fogo-dsin-coder-challenge-2026) — Ferramenta Onisciente de Gestão e Operações
+
+Web system that monitors traffic and public safety equipment in **Marília-SP**, built as a team for the bonus stage of the **DSIN Coder Challenge 2026**. In Stage 1 of the challenge, representing Fatec Pompeia, I ranked 1st among all Fatecs.
+
+- 🗺️ **Smart city inventory** of 13 types of IoT equipment and field agents, with search, filters and a documented API
+- 📡 **Operations center** with a live map, real-time alerts and event injection (accidents, theft, flooding)
+- 📈 **Predictive city**: risk by neighborhood and hour, with a backtest showing how accurate each forecast was
+- 🔐 **My main contribution: the security layer**: login with 4 roles, permission checked on every route, LGPD data masking, audit trail, scrypt password hashing, CSRF origin check, CSP and rate limiting
+
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+
+<p align="left"><img src="https://raw.githubusercontent.com/jonhvinnykkj/fogo-dsin-coder-challenge-2026/main/docs/telas/central.png" alt="F.O.G.O. operations center" width="700" /></p>
+
 <h3 align="left">Languages and Tools:</h3>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
